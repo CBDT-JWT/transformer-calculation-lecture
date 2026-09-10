@@ -1,0 +1,44 @@
+[
+  {
+    "file": "core_attention_weights.png",
+    "width_inches": 6.3,
+    "height_inches": 4.05,
+    "dpi": 300,
+    "description": "Two-token QK example, unmasked and causal attention."
+  },
+  {
+    "file": "core_transformer_residual.png",
+    "width_inches": 6.3,
+    "height_inches": 4.25,
+    "dpi": 300,
+    "description": "Sequential pre-LN attention and FFN residual sublayers."
+  },
+  {
+    "file": "core_vae_elbo.png",
+    "width_inches": 6.3,
+    "height_inches": 4.8,
+    "dpi": 300,
+    "description": "VAE training/generation paths and the two distinct KL divergences."
+  },
+  {
+    "file": "core_forward_mixture.png",
+    "width_inches": 6.3,
+    "height_inches": 4.2,
+    "dpi": 300,
+    "description": "Analytic Gaussian-mixture marginals under discrete forward-noise levels."
+  },
+  {
+    "file": "core_posterior_precision.png",
+    "width_inches": 6.3,
+    "height_inches": 4.4,
+    "dpi": 300,
+    "description": "Gaussian posterior as the normalized product of prior and observation factors."
+  },
+  {
+    "file": "core_sde_probability_flow.png",
+    "width_inches": 6.3,
+    "height_inches": 4.4,
+    "dpi": 300,
+    "description": "Fixed-seed SDE paths and exact probability-flow ODE trajectories with equal analytic marginals."
+  }
+]

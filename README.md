@@ -12,3 +12,7 @@
 直接打开 `index.html` 即可。示例参数未经训练，所有数值在浏览器内使用完整精度计算，显示时取三位小数。
 
 参考文献见末页。图示及教学算例为此讲义自建。
+
+## 完整课程
+
+[Transformer、Diffusion 与 Flow Matching 完整幻灯讲义](https://cbdt-jwt.github.io/transformer-calculation-lecture/generative-models/)：305 页，13 章及附录，保留更换论文后的 PDF 全部正文、16 幅图与推导习题。
